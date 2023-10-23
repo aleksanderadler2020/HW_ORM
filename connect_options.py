@@ -1,0 +1,5 @@
+user = 'postgres'
+password = '2451'
+ip = 'localhost'
+port = '5432'
+database = 'HWDB'
